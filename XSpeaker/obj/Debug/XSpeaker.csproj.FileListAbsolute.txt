@@ -1,0 +1,56 @@
+c:\users\даниил\documents\visual studio 2013\Projects\XSpeaker\XSpeaker\bin\Debug\XSpeaker.exe.config
+c:\users\даниил\documents\visual studio 2013\Projects\XSpeaker\XSpeaker\bin\Debug\XSpeaker.exe
+c:\users\даниил\documents\visual studio 2013\Projects\XSpeaker\XSpeaker\bin\Debug\XSpeaker.pdb
+c:\users\даниил\documents\visual studio 2013\Projects\XSpeaker\XSpeaker\obj\Debug\XSpeaker.csprojResolveAssemblyReference.cache
+c:\users\даниил\documents\visual studio 2013\Projects\XSpeaker\XSpeaker\obj\Debug\XSpeaker.Form1.resources
+c:\users\даниил\documents\visual studio 2013\Projects\XSpeaker\XSpeaker\obj\Debug\XSpeaker.Properties.Resources.resources
+c:\users\даниил\documents\visual studio 2013\Projects\XSpeaker\XSpeaker\obj\Debug\XSpeaker.csproj.GenerateResource.Cache
+c:\users\даниил\documents\visual studio 2013\Projects\XSpeaker\XSpeaker\obj\Debug\XSpeaker.exe
+c:\users\даниил\documents\visual studio 2013\Projects\XSpeaker\XSpeaker\obj\Debug\XSpeaker.pdb
+C:\Users\Даниил\Documents\Visual Studio 2013\Projects\XSpeaker\XSpeaker\obj\Debug\XSpeaker.AddOrChangeUser.resources
+C:\Users\West_Alarih\Desktop\XSpeaker_shell\XSpeaker\bin\Debug\XSpeaker.exe.config
+C:\Users\West_Alarih\Desktop\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.exe
+C:\Users\West_Alarih\Desktop\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.pdb
+C:\Users\West_Alarih\Desktop\XSpeaker_shell\XSpeaker\bin\Debug\XSpeaker.exe
+C:\Users\West_Alarih\Desktop\XSpeaker_shell\XSpeaker\bin\Debug\XSpeaker.pdb
+C:\Users\West_Alarih\Desktop\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.csprojResolveAssemblyReference.cache
+C:\Users\West_Alarih\Desktop\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.AddOrChangeUser.resources
+C:\Users\West_Alarih\Desktop\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.Form1.resources
+C:\Users\West_Alarih\Desktop\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.Properties.Resources.resources
+C:\Users\West_Alarih\Desktop\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.csproj.GenerateResource.Cache
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\bin\Debug\XSpeaker.exe.config
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.exe
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.pdb
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.csprojResolveAssemblyReference.cache
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.AddOrChangeUser.resources
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.Form1.resources
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.Properties.Resources.resources
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.csproj.GenerateResource.Cache
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\bin\Debug\XSpeaker.exe
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\bin\Debug\XSpeaker.pdb
+C:\Users\West_Alarih\Documents\Visual Studio 2013\Projects\XSpeaker_shell\XSpeaker\bin\Debug\XSpeaker.exe.config
+C:\Users\West_Alarih\Documents\Visual Studio 2013\Projects\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.exe
+C:\Users\West_Alarih\Documents\Visual Studio 2013\Projects\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.pdb
+C:\Users\West_Alarih\Documents\Visual Studio 2013\Projects\XSpeaker_shell\XSpeaker\bin\Debug\XSpeaker.exe
+C:\Users\West_Alarih\Documents\Visual Studio 2013\Projects\XSpeaker_shell\XSpeaker\bin\Debug\XSpeaker.pdb
+C:\Users\West_Alarih\Documents\Visual Studio 2013\Projects\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.csprojResolveAssemblyReference.cache
+C:\Users\West_Alarih\Documents\Visual Studio 2013\Projects\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.AddOrChangeUser.resources
+C:\Users\West_Alarih\Documents\Visual Studio 2013\Projects\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.Form1.resources
+C:\Users\West_Alarih\Documents\Visual Studio 2013\Projects\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.Properties.Resources.resources
+C:\Users\West_Alarih\Documents\Visual Studio 2013\Projects\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.csproj.GenerateResource.Cache
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.PasswordForm.resources
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.PopupInformation.resources
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.ServiceInformation.resources
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\bin\Debug\XSpeaker.exe.config
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.pdb
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.csprojResolveAssemblyReference.cache
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.About.resources
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.AddOrChangeUser.resources
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.Form1.resources
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.PasswordForm.resources
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.Properties.Resources.resources
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.ServiceInformation.resources
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.csproj.GenerateResource.Cache
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\bin\Debug\XSpeaker.exe
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\bin\Debug\XSpeaker.pdb
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Debug\XSpeaker.exe

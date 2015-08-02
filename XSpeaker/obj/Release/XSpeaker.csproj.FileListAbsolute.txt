@@ -1,0 +1,45 @@
+C:\Users\Даниил\Desktop\XSpeaker_shell\XSpeaker_shell\XSpeaker\bin\Release\XSpeaker.exe.config
+C:\Users\Даниил\Desktop\XSpeaker_shell\XSpeaker_shell\XSpeaker\bin\Release\XSpeaker.exe
+C:\Users\Даниил\Desktop\XSpeaker_shell\XSpeaker_shell\XSpeaker\bin\Release\XSpeaker.pdb
+C:\Users\Даниил\Desktop\XSpeaker_shell\XSpeaker_shell\XSpeaker\bin\Release\NAudio.dll
+C:\Users\Даниил\Desktop\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.AddOrChangeUser.resources
+C:\Users\Даниил\Desktop\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.Form1.resources
+C:\Users\Даниил\Desktop\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.PasswordForm.resources
+C:\Users\Даниил\Desktop\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.Properties.Resources.resources
+C:\Users\Даниил\Desktop\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.ServiceInformation.resources
+C:\Users\Даниил\Desktop\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.csproj.GenerateResource.Cache
+C:\Users\Даниил\Desktop\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.exe
+C:\Users\Даниил\Desktop\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.pdb
+C:\Users\Даниил\Desktop\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.csprojResolveAssemblyReference.cache
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\bin\Release\XSpeaker.exe.config
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\bin\Release\XSpeaker.exe
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\bin\Release\XSpeaker.pdb
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\bin\Release\NAudio.dll
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.AddOrChangeUser.resources
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.Form1.resources
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.PasswordForm.resources
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.Properties.Resources.resources
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.ServiceInformation.resources
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.csproj.GenerateResource.Cache
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.exe
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.pdb
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.csprojResolveAssemblyReference.cache
+C:\Users\тоха\Desktop\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.About.resources
+F:\XSpeaker_shell\XSpeaker_shell\XSpeaker\bin\Release\XSpeaker.exe.config
+F:\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.exe
+F:\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.pdb
+C:\Users\Даниил\Desktop\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.About.resources
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\bin\Release\XSpeaker.exe.config
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.exe
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.pdb
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\bin\Release\XSpeaker.exe
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\bin\Release\XSpeaker.pdb
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\bin\Release\NAudio.dll
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.csprojResolveAssemblyReference.cache
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.About.resources
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.AddOrChangeUser.resources
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.Form1.resources
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.PasswordForm.resources
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.Properties.Resources.resources
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.ServiceInformation.resources
+C:\Users\chupi_000\Google Диск\Projects\XSpeaker_shell\XSpeaker_shell\XSpeaker\obj\Release\XSpeaker.csproj.GenerateResource.Cache
